@@ -1,0 +1,1 @@
+﻿global using DotnetApiTemplate.Shared.Abstractions.Models;

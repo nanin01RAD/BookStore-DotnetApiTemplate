@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Radya Labs Digital",
+  "classifications": [
+    "api"
+  ],
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "identity": "DotnetApiTemplate",
+  "name": "Radya Labs Digital Web API template",
+  "shortName": "rlapicleanarch",
+  "sourceName": "DotnetApiTemplate",
+  "preferNameDirectory": true,
+  "sources": [
+    {
+      "exclude": [
+        ".git/**",
+        ".github/**",
+        ".template.config/**",
+        ".templates/**",
+        ".idea/**",
+        ".vscode/**",
+        ".vs/**",
+        ".DS_Store/**",
+        "**/.idea/**",
+        "**/.vscode/**",
+        "**/.vs/**",
+        "**/.DS_Store/**"
+      ]
+    }
+  ]
+}
